@@ -1,7 +1,7 @@
 # Agent Platform Security Assessment
 
 A seventeen-check, evidence-tiered security assessment for AI agent platforms on GCP.
-Companion to the article ["The Agent Platform Security Assessment"](https://d3ep0ps.com) and
+Companion to the article ["The Agent Platform Security Assessment"](https://d3ep0ps.com/#agent-platform-security-assessment) and
 the *Security as Code: AI Agent Security* series at [d3ep0ps.com](https://d3ep0ps.com).
 
 ## The method
